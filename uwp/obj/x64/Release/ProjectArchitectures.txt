@@ -1,0 +1,1 @@
+C:\Users\David\source\repos\ConsoleApp2\uwp\uwp.csproj;x64
